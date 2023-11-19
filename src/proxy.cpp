@@ -18,6 +18,7 @@ public:
 
     int screenWidth, screenHeight;
     const char* windowstr = "test";
+
     void videoInit(){
 
         screenWidth = 1280;
@@ -117,4 +118,24 @@ public:
         //sync
         SDL_GL_SwapWindow(window);
     }
+
+
+    /***
+    
+    
+    
+    
+    ***/
+
+
+
+
+
+
+
+
+
+
+
+
 };
